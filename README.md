@@ -143,27 +143,6 @@ These investigations demonstrate practical understanding of several cybersecurit
 
 ---
 
-# Repository Structure
-
-```text
-Wireshark-network-traffic-analysis/
-│
-├── pcap1-port-scan/
-│   ├── evidence/
-│   │   ├── pcap1-icmp-reconnaissance.png
-│   │   ├── pcap1-syn-port-scan.png
-│   │   └── pcap1-tcp-resets.png
-│   └── README.md
-│
-├── pcap2-ftp-brute-force/
-│   ├── evidence/
-│   │   ├── pcap2-ftp-user-pass-attempts.png
-│   │   └── pcap2-ftp-530-failures.png
-│   └── README.md
-│
-└── README.md
-```
-
 ---
 
 # Key Learning
